@@ -1,7 +1,7 @@
 # Technical Writing Portfolio — Josue Juarez
 
 A collection of technical writing samples, including SOPs, 
-API documentation and help content.
+API documentation, etc.
 
 ---
 
