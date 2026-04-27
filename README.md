@@ -12,6 +12,10 @@ API documentation, etc.
 - 🌐 [View Published Version](https://share.jotbird.com/spicy-soaring-raven)
 
 ---
+## Help Files
 
+### How do I add a profile picture in Slack?
+- 🌐 [View in Confluence](https://juarezjosue98-1776699910822.atlassian.net/wiki/x/AQCE)
+  ---
 *Built as part of an ongoing technical writing skill 
 development program.*
