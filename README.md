@@ -21,7 +21,7 @@ API documentation, etc.
 
 ### Do Not Disturb in Slack
 - 🌐 [View in Jotbird](https://share.jotbird.com/sunny-peaceful-sage-moon)
-- 📄 [View Published Version](https://share.jotbird.com/soft-courageous-pinon)
+- 📄 [View Published Version](https://share.jotbird.com/sunny-peaceful-sage-moon)
 --- 
 *Built as part of an ongoing technical writing skill 
 development program.*
