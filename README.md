@@ -17,9 +17,9 @@ API documentation, etc.
 ### How do I add a profile picture in Slack?
 - 🌐 [View in Confluence](https://juarezjosue98-1776699910822.atlassian.net/wiki/x/AQCE)
 ---
-##Software Documentation
+## Software Documentation
 
-##### Do Not Disturb in Slack
+### Do Not Disturb in Slack
 - 🌐 [View in Jotbird](https://share.jotbird.com/sunny-peaceful-sage-moon)
 ---
 *Built as part of an ongoing technical writing skill 
