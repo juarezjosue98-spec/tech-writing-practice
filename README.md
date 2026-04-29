@@ -42,8 +42,8 @@ and restructuring it to meet professional standards.
 
 | Version | Link |
 |---|---|
-| 📄 Original — Unedited | [View in Confluence](https://juarezjosue98-1776699910822.atlassian.net/wiki/x/CQCr) |
-| ✅ Revised — Edited | [View in Confluence](https://juarezjosue98-1776699910822.atlassian.net/wiki/x/AYCS) |
+| 📄 Original — Unedited | [View in Confluence](https://juarezjosue98-1776699910822.atlassian.net/wiki/external/NGVmZGFhNjRmZjVlNGJkM2I0NTE1YjEzZDZlZjNjNDQ) |
+| ✅ Revised — Edited | [View in Confluence](https://juarezjosue98-1776699910822.atlassian.net/wiki/external/MTExNTc1ZTIwMTMzNGFiMjkzMTY3MDk5ZGIyZTQxMjk) |
 ### How to Escalate a Client Support Ticket to Tier 2
 Internal SOP written for WorldTech IT Tier 1 support 
 engineers. Includes an escalation criteria reference 
