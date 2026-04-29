@@ -44,5 +44,6 @@ and restructuring it to meet professional standards.
 |---|---|
 | 📄 Original — Unedited | [View in Confluence](https://juarezjosue98-1776699910822.atlassian.net/wiki/x/CQCr) |
 | ✅ Revised — Edited | [View in Confluence](https://juarezjosue98-1776699910822.atlassian.net/wiki/x/AYCS) |
+
 *Built as part of an ongoing technical writing skill 
 development program.*
