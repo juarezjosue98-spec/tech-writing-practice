@@ -23,5 +23,26 @@ API documentation, etc.
 - 🌐 [View in Jotbird](https://share.jotbird.com/sunny-peaceful-sage-moon)
 - 📄 [View Published Version](https://share.jotbird.com/sunny-peaceful-sage-moon)
 --- 
+## Technical Editing Samples
+
+### How to Submit an IT Support Ticket
+This sample demonstrates technical editing skills — 
+identifying problems in a poorly written document 
+and restructuring it to meet professional standards.
+
+**Problems identified in the original:**
+- Passive voice throughout all steps
+- Wall of text with no formatting in the overview
+- Prerequisites written as a paragraph, not bullets
+- Vague steps with no specific actions or UI elements
+- Warnings buried inside steps instead of callout boxes
+- Inconsistent heading levels and verb tense
+- Combined steps with multiple actions
+- Sentences cut off mid-thought
+
+| Version | Link |
+|---|---|
+| 📄 Original — Unedited | [View in Confluence](https://juarezjosue98-1776699910822.atlassian.net/wiki/x/CQCr) |
+| ✅ Revised — Edited | [View in Confluence](https://juarezjosue98-1776699910822.atlassian.net/wiki/x/AYCS) |
 *Built as part of an ongoing technical writing skill 
 development program.*
