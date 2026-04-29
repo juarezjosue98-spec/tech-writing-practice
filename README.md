@@ -54,5 +54,6 @@ guidance.
 |---|---|
 | 📄 Original — Unedited | [View in Confluence](https://juarezjosue98-1776699910822.atlassian.net/wiki/external/MGNlNzQyODY3Nzc0NGM2NmE1N2UxNDljOWIwMTNjMjg) |
 | ✅ Completed SOP | [View in Confluence](https://juarezjosue98-1776699910822.atlassian.net/wiki/external/MDEwN2RmODY5ZTI3NDEwOWI1MmMxODllM2MyZmJhNWY) |
+
 *Built as part of an ongoing technical writing skill 
 development program.*
